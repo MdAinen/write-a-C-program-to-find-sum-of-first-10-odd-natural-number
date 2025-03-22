@@ -1,0 +1,1 @@
+# write-a-C-program-to-find-sum-of-first-10-odd-natural-number
